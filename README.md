@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This includes the Applied data science capstone projects in Coursera.
+# Final Project
+## Data analysis of venues in Bangalore & Hyderabad, India
